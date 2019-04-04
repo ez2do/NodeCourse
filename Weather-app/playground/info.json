@@ -1,0 +1,274 @@
+{
+    "type": "FeatureCollection",
+    "query": [
+        "rodi"
+    ],
+    "features": [
+        {
+            "id": "locality.10689912576389500",
+            "type": "Feature",
+            "place_type": [
+                "locality"
+            ],
+            "relevance": 1,
+            "properties": {},
+            "text": "Roding",
+            "place_name": "Roding, London, Greater London, England, United Kingdom",
+            "bbox": [
+                0.025431545064798,
+                51.584177421422,
+                0.053864999365892,
+                51.6036020991155
+            ],
+            "center": [
+                0.03,
+                51.59
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.03,
+                    51.59
+                ]
+            },
+            "context": [
+                {
+                    "id": "place.2703042976503000",
+                    "wikidata": "Q84",
+                    "text": "London"
+                },
+                {
+                    "id": "district.9655698107976620",
+                    "wikidata": "Q23306",
+                    "text": "Greater London"
+                },
+                {
+                    "id": "region.11773787231453920",
+                    "short_code": "GB-ENG",
+                    "wikidata": "Q21",
+                    "text": "England"
+                },
+                {
+                    "id": "country.8605848117814600",
+                    "short_code": "gb",
+                    "wikidata": "Q145",
+                    "text": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "id": "poi.996432413052",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 1,
+            "properties": {
+                "landmark": true,
+                "wikidata": "Q650519",
+                "category": "art museum, art, museum, painting, art gallery, art galleries, galleries, gallery, museum, tourism",
+                "address": "79 rue de Varenne"
+            },
+            "text": "Musée Rodin",
+            "place_name": "Musée Rodin, 79 rue de Varenne, Paris, 75007, France",
+            "matching_text": "Rodin Museum",
+            "matching_place_name": "Rodin Museum, 79 rue de Varenne, Paris, 75007, France",
+            "center": [
+                2.315862,
+                48.855385
+            ],
+            "geometry": {
+                "coordinates": [
+                    2.315862,
+                    48.855385
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "neighborhood.8703218059178140",
+                    "wikidata": "Q3413242",
+                    "text": "Invalides"
+                },
+                {
+                    "id": "locality.8283129168413936",
+                    "wikidata": "Q259463",
+                    "text": "7th arrondissement of Paris"
+                },
+                {
+                    "id": "postcode.12325909718936270",
+                    "text": "75007"
+                },
+                {
+                    "id": "place.9397217726497330",
+                    "short_code": "FR-75",
+                    "wikidata": "Q90",
+                    "text": "Paris"
+                },
+                {
+                    "id": "country.9759535382641660",
+                    "short_code": "fr",
+                    "wikidata": "Q142",
+                    "text": "France"
+                }
+            ]
+        },
+        {
+            "id": "poi.816043786651",
+            "type": "Feature",
+            "place_type": [
+                "poi"
+            ],
+            "relevance": 1,
+            "properties": {
+                "landmark": true,
+                "wikidata": "Q1321619",
+                "category": "art museum, art, museum, painting, art gallery, art galleries, galleries, gallery, museum, tourism",
+                "address": "2151 Benjamin Franklin Pkwy"
+            },
+            "text": "Rodin Museum",
+            "place_name": "Rodin Museum, 2151 Benjamin Franklin Pkwy, Philadelphia, Pennsylvania 19130, United States",
+            "center": [
+                -75.17395,
+                39.961926
+            ],
+            "geometry": {
+                "coordinates": [
+                    -75.17395,
+                    39.961926
+                ],
+                "type": "Point"
+            },
+            "context": [
+                {
+                    "id": "neighborhood.2101662",
+                    "text": "Logan Square"
+                },
+                {
+                    "id": "postcode.15054684161565360",
+                    "text": "19130"
+                },
+                {
+                    "id": "place.15631048233058240",
+                    "wikidata": "Q1345",
+                    "text": "Philadelphia"
+                },
+                {
+                    "id": "region.2157738952111630",
+                    "short_code": "US-PA",
+                    "wikidata": "Q1400",
+                    "text": "Pennsylvania"
+                },
+                {
+                    "id": "country.9053006287256050",
+                    "short_code": "us",
+                    "wikidata": "Q30",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "neighborhood.276849",
+            "type": "Feature",
+            "place_type": [
+                "neighborhood"
+            ],
+            "relevance": 1,
+            "properties": {},
+            "text": "Rodi",
+            "place_name": "Rodi, Pittsburgh, Pennsylvania 15235, United States",
+            "bbox": [
+                -79.836922,
+                40.459487,
+                -79.816903,
+                40.472633
+            ],
+            "center": [
+                -79.8259,
+                40.4662
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8259,
+                    40.4662
+                ]
+            },
+            "context": [
+                {
+                    "id": "postcode.11957690141562110",
+                    "text": "15235"
+                },
+                {
+                    "id": "place.14178711833540730",
+                    "wikidata": "Q1342",
+                    "text": "Pittsburgh"
+                },
+                {
+                    "id": "region.2157738952111630",
+                    "short_code": "US-PA",
+                    "wikidata": "Q1400",
+                    "text": "Pennsylvania"
+                },
+                {
+                    "id": "country.9053006287256050",
+                    "short_code": "us",
+                    "wikidata": "Q30",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "neighborhood.14907869043161520",
+            "type": "Feature",
+            "place_type": [
+                "neighborhood"
+            ],
+            "relevance": 1,
+            "properties": {},
+            "text": "Rodilândia",
+            "place_name": "Rodilândia, Nova Iguaçu - Rio De Janeiro, Brazil",
+            "bbox": [
+                -43.5306631589999,
+                -22.7441029693439,
+                -43.4968943259078,
+                -22.7254607275604
+            ],
+            "center": [
+                -43.5097,
+                -22.7384
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.5097,
+                    -22.7384
+                ]
+            },
+            "context": [
+                {
+                    "id": "postcode.1768874735268550",
+                    "text": "26083"
+                },
+                {
+                    "id": "place.7286553444863100",
+                    "wikidata": "Q188897",
+                    "text": "Nova Iguaçu"
+                },
+                {
+                    "id": "region.17483030925980170",
+                    "short_code": null,
+                    "wikidata": "Q8678",
+                    "text": "Rio De Janeiro"
+                },
+                {
+                    "id": "country.12447454793682710",
+                    "short_code": "br",
+                    "wikidata": "Q155",
+                    "text": "Brazil"
+                }
+            ]
+        }
+    ],
+    "attribution": "NOTICE: © 2019 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}
